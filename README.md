@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @darkbishop19
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning java and python
-- 💞️ I’m looking to collaborate on creating android video game
+- 💞️ I’m looking to collaborate on creating web apps/backend
 - 📫 How to reach me kasper_322@mail.ru
 
 <!---
